@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nayan74
+- 👋 Hi, I’m @Nayan
 - 👀 I’m interested in Research
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on Research field
